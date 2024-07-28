@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.h2a64zol\.github.io\.zolsite [NC]
+RewriteRule ^(.*)$ http://h2a64zol.github.io.zolsite/$1 [L,R=301]
