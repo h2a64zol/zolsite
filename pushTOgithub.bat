@@ -15,6 +15,9 @@ rem git rm *.ico
 pause
 git rm *.ico
 rem git add .
+rem robocopy
+pause
+robocopy "D:\Java\ANGULAR\MyPRJ\dist\my-prj" "D:\GITHUB\zolsite"  "*.*"
 pause
 git add .
 rem git commit -m "Change Site"
