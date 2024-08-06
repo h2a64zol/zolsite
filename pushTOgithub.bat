@@ -1,12 +1,12 @@
 git status
-rem pause
+pause
 git rm *.js *.css *.html *.txt *.ico
-rem pause
+pause
 git add .
-rem pause
-git commit -m "Change JSON"
-rem pause
+pause
+git commit -m "Change Site"
+pause
 git pull
-rem pause
+pause
 git push -u origin main
-rem pause
+pause
