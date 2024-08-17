@@ -16,7 +16,7 @@ pause
 git rm *.ico
 rem robocopy
 pause
-robocopy "D:\Java\ANGULAR\MyPRJ\dist\my-prj" "D:\GITHUB\zolsite"  "*.*"
+robocopy "C:\Java\ANGULAR\MyPRJ\dist\my-prj" "C:\GITHUB\zolsite"  "*.*"
 rem git add .
 pause
 git add .
