@@ -1,4 +1,5 @@
 git status
+pause
 rem git rm *.js pause
 git rm *.js
 rem git rm *.css pause
@@ -13,6 +14,7 @@ rem robocopy pause
 robocopy "C:\Java\ANGULAR\MyPRJ\dist\my-prj" "C:\GITHUB\zolsite"  "*.*"
 rem git add . pause
 git add .
+pause
 rem git commit -m "Change Site" pause
 git commit -m "Change Site"
 rem git pull pause
